@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=mrnightwatch1141&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Computer%20Science%20%7C%20Cybersecurity&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=mrnightwatch1141&fontSize=42&fontColor=fc2339&fontAlignY=35&desc=Computer%20Science%20%7C%20Cybersecurity&descSize=18&descColor=ff0000&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Computer+Science+Student+%F0%9F%92%BB;5th+Place+%40+Hack+In+Fest+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
