@@ -60,7 +60,6 @@ fun_fact: "Ranked 5th at Hackathon Hack In Fest 🏆"
 
 <img src="https://github-readme-stats.vercel.app/api?username=mrnightwatch1141&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff0000&text_color=8b949e" height="170" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnightwatch1141&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ff0000&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="170" />
 
 </div>
 
