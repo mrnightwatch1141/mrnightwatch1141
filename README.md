@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=mrnightwatch1141&fontSize=42&fontColor=fc2339&fontAlignY=35&desc=Computer%20Science%20%7C%20Cybersecurity&descSize=18&descColor=ff0000&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff0000&height=220&section=header&text=mrnightwatch1141&fontSize=42&fontColor=fc2339&fontAlignY=35&desc=Computer%20Science%20%7C%20Cybersecurity&descSize=18&descColor=ff0000&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Computer+Science+Student+%F0%9F%92%BB;5th+Place+%40+Hack+In+Fest+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4444&center=true&vCenter=true&random=false&width=520&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Computer+Science+Student+%F0%9F%92%BB;5th+Place+%40+Hack+In+Fest+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
@@ -30,7 +30,7 @@ fun_fact: "Ranked 5th at Hackathon Hack In Fest 🏆"
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/%F0%9F%8F%85_5th_Place-Hack_In_Fest_Hackathon-1f6feb?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8F%85_5th_Place-Hack_In_Fest_Hackathon-ff0000?style=for-the-badge&labelColor=0d1117" />
 </td>
 </tr>
 </table>
@@ -58,9 +58,9 @@ fun_fact: "Ranked 5th at Hackathon Hack In Fest 🏆"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrnightwatch1141&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrnightwatch1141&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ff4444&icon_color=ff0000&text_color=8b949e" height="170" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnightwatch1141&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnightwatch1141&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ff0000&ring=ff4444&fire=ff4444&currStreakLabel=ff4444&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="170" />
 
 </div>
 
@@ -78,8 +78,7 @@ fun_fact: "Ranked 5th at Hackathon Hack In Fest 🏆"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff0000&height=120&section=footer" width="100%" />
 <sub>⭐ From <a href="https://github.com/mrnightwatch1141">mrnightwatch1141</a> — <i>"Securing the digital frontier, one line at a time."</i></sub>
 
 </div>
