@@ -77,7 +77,7 @@ fun_fact: "Ranked 5th at Hackathon Hack In Fest 🏆"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff0000&height=120&section=footer" width="100%" />
-<sub>⭐ From <a href="https://github.com/mrnightwatch1141">mrnightwatch1141</a> — <i>"Securing the digital frontier, one line at a time."</i></sub>
+<sub>⭐ From <a href="https://github.com/mrnightwatch1141">mrnightwatch1141</a></sub>
 
 </div>
 <!---
