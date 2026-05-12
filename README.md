@@ -33,6 +33,12 @@ fun_fact: "Ranked 5th at Hackathon Hack In Fest 🏆"
 <img src="https://img.shields.io/badge/%F0%9F%8F%85_5th_Place-Hack_In_Fest_Hackathon-ff0000?style=for-the-badge&labelColor=0d1117" />
 </td>
 </tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/%F0%9F%8F%85_2nd_Place-Cisco_EMEA_NetacadCup_Semifinals-ff0000?style=for-the-badge&labelColor=0d1117" />
+</td>
+</tr>
 </table>
 
 </div>
